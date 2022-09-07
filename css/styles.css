@@ -1,0 +1,26 @@
+body {
+    background-color: lightcoral;
+    cursor: crosshair;
+}
+
+#code-image {
+    border: 5px solid rgb(0, 255, 213);
+    border-radius: 25px;
+    height: 30%;
+    width: 30%;
+}
+
+.header-centered {
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+
+}
+H3 {
+    font-family:Arial, Helvetica, sans-serif;
+}
+p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.list {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
